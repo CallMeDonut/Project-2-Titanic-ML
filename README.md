@@ -4,7 +4,7 @@
 ## About The Project
 Dataset: https://www.kaggle.com/competitions/titanic/data
 
-The purpose of this project using the above dataset from kaggle, was meant to create a machine learning model to predict which passengers survived the shipwreck. The project is also filled with other subjects such as EDA, feature engineering, and data wrangling. Multiple machine learning models were used with the best performing being logistic regression, which had a score of 81%. As I grow my skills as a data analyst I plan on periodically coming back to try new models/parameter tuning to increase the score further.
+This project uses a Kaggle dataset to build a machine learning model that predicts which passengers survived the shipwreck. Along the way, I explored key data analysis concepts such as exploratory data analysis (EDA), feature engineering, and data wrangling. Multiple machine learning models were tested, with logistic regression achieving the highest accuracy at 81%. As I continue to develop my skills in data analytics, I plan to revisit this project to experiment with new models and fine-tune parameters to further improve performance.
 
 
 

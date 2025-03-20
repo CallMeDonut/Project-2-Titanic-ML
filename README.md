@@ -19,11 +19,11 @@ If you wish to view this code, click the green "<> Code" dropdown button and dow
 
 ### Libraries
 
-*Pandas
-*Numpy
-*Seaborn
-*Matplotlib
-*Sklearn
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Sklearn
 
 
 

@@ -9,7 +9,7 @@ This project uses a Kaggle dataset to build a machine learning model that predic
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -28,7 +28,7 @@ If you wish to view this code, click the green "<> Code" dropdown button and dow
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
